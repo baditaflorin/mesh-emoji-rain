@@ -1,7 +1,7 @@
 # mesh-emoji-rain
 
 [![pages](https://img.shields.io/badge/live-baditaflorin.github.io%2Fmesh-emoji-rain-f5a524)](https://baditaflorin.github.io/mesh-emoji-rain/)
-[![version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/baditaflorin/mesh-emoji-rain/blob/main/package.json)
+[![version](https://img.shields.io/badge/version-0.1.1-blue)](https://github.com/baditaflorin/mesh-emoji-rain/blob/main/package.json)
 [![license](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 > Tap an emoji — it rains on every peer's screen for 5 seconds. No login, no rounds.
